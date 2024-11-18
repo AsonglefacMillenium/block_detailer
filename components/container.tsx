@@ -141,7 +141,7 @@ const SvgWrapper = styled.span`
 const Text = styled.span`
   color: #42567a;
   font-family: "PT Sans";
-  font-size: 56px;
+  font-size: 50px;
   font-style: normal;
   font-weight: 700;
   line-height: 120%;
